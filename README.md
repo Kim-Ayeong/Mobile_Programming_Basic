@@ -1,5 +1,5 @@
 # Mobile_Programming_Basic
-**[ 모바일 프로그래밍 기초 ] **
+**[ 모바일 프로그래밍 기초 ]**
 
 - 교육 일시 : 2017/03/02 - 2017/06/21
 - 언어 및 프로그램 : Java / Android Studio
