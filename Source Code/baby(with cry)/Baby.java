@@ -1,4 +1,4 @@
-package com.example.june.baby;
+ï»¿package com.example.june.baby;
 
 import android.widget.Toast;
 
@@ -12,6 +12,6 @@ public class Baby extends Person {
    }
 
    void cry() {
-      Toast.makeText(mainActivity, name + "ÀÌ(°¡) " + "¿ó´Ï´Ù.", Toast.LENGTH_SHORT).show();
+      Toast.makeText(mainActivity, name + "ì´(ê°€) " + "ì›ë‹ˆë‹¤.", Toast.LENGTH_SHORT).show();
    }
 }
